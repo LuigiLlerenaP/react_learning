@@ -1,0 +1,1 @@
+export const setupFiles = ['./jest.setup.js'];
